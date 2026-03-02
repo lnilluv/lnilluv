@@ -64,8 +64,8 @@ I work at the intersection of Data, Finance, and Operations to build pipelines a
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lnilluv&show_icons=true&hide_title=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnilluv&layout=compact&theme=transparent" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lnilluv&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lnilluv&theme=github_dark" alt="Top languages" />
 </p>
 
 ---
