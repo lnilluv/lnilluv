@@ -61,22 +61,6 @@ I work at the intersection of Data, Finance, and Operations to build pipelines a
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=lnilluv&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lnilluv&theme=github-compact&hide_border=true" alt="Contribution graph" />
-</p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=lnilluv&theme=algolia&no-frame=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</p>
-
----
-
 ## Experience Snapshot
 
 - Senior Data Analyst, Decathlon (2024-Present)
