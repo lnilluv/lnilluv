@@ -6,7 +6,7 @@
 
 I work at the intersection of Data, Finance, and Operations to build pipelines and analytics that teams can actually use for daily decisions.
 
-<a href="https://linkedin.com/in/laurent-vullin"><img src="https://img.shields.io/badge/LinkedIn-laurent--vullin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/laurent-vullin"><img src="https://img.shields.io/badge/LinkedIn-lnilluv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/lnilluv"><img src="https://img.shields.io/badge/GitHub-lnilluv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=lnilluv&style=for-the-badge&color=0e75b6" alt="profile views" />
 
