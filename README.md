@@ -67,4 +67,4 @@ I work at the intersection of Data, Finance, and Operations to build pipelines a
 - Business Controller and BI Project Manager, KPMG France (2019-2023)
 - Business Controller and Data Analyst, H&H Group (2014-2018)
 - 800+ hour Data Analytics, Data Science and Data Engineering program (Jedha)
-- Currently pursuing CKA certification
+- Currently pursuing CKA certification, continuous learner
