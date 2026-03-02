@@ -28,6 +28,7 @@ I build reliable data pipelines and decision-ready analytics systems, with a pra
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
@@ -35,6 +36,8 @@ I build reliable data pipelines and decision-ready analytics systems, with a pra
 <p>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### BI and Analytics
@@ -61,10 +64,35 @@ Forecasting project for retail sales scenarios.
 **Stack:** Python, machine learning, Docker  
 Repo: https://github.com/lnilluv/walmart-sales-forecast
 
+### Getaround Data Platform
+EDA and machine learning workflow for car rental operations, with experiment tracking and deployment-oriented setup.
+**Stack:** Python, FastAPI, MLflow, Docker  
+Repo: https://github.com/lnilluv/getaround-eda-ml
+
+### Kayak Scraping ETL
+Automated web scraping and ETL pipeline for travel data collection and downstream analysis.
+**Stack:** Python, ETL, Docker, AWS  
+Repo: https://github.com/lnilluv/kayak-scrapping
+
+### Conversion Rate MLOps
+End-to-end machine learning project focused on conversion prediction and reproducible ML workflows.
+**Stack:** Python, MLOps, Docker  
+Repo: https://github.com/lnilluv/conversion-rate-mlops
+
+### NLP Spam Detector API
+NLP model project served through an API-oriented workflow.
+**Stack:** Python, TensorFlow, FastAPI, Docker  
+Repo: https://github.com/lnilluv/nlp-spam-detector-api
+
 ### BrainSight CNN Project
 Deep learning project for medical imaging classification.
 **Stack:** Python, CNN, MLOps workflow  
 Repo: https://github.com/lnilluv/Brainsight-Alzheimer-prediction-DeepLearning-CNN
+
+### Ubuntu VPS Hardening with Ansible
+Infrastructure automation for secure server baseline setup.
+**Stack:** Ansible, Linux, Docker  
+Repo: https://github.com/lnilluv/ansible-ubuntu-setup
 
 ---
 
