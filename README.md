@@ -16,8 +16,16 @@ I work at the intersection of Data, Finance, and Operations to build pipelines a
 
 ## What I am building now
 
-- Competitor price intelligence pipeline end-to-end: scraping, product matching, quality checks, and decision-ready outputs.
+- Competitor price intelligence pipeline end-to-end: scraping, product matching, quality checks, and decision-ready outputs (Python/Spark)
 - Focus: robust data flow, useful business signals, and maintainable tooling.
+
+---
+
+## What I'm learning now
+
+- Flutter
+- TS
+- Go
 
 ---
 
