@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a3a5c,50:162447,100:0b1220&section=header" width="100%" alt="header" />
 
-# lnilluv
+```
+lnilluv@github:~$ whoami
+```
 
 **Data Engineer** &nbsp;·&nbsp; Finance, Data & Logistics background
 
@@ -21,42 +23,27 @@ Building practical, reliable data products at the intersection of Data, Finance,
 
 </div>
 
-<br />
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br />
-
-## &nbsp;🔭&nbsp; What I'm Building Now
+### `> cat /proc/current_build`
 
 > **Competitor Price Intelligence Pipeline** — end-to-end: scraping, product matching, quality checks, and decision-ready outputs *(Python / Spark)*
 >
 > Focus: robust data flow, useful business signals, and maintainable tooling.
 
-<br />
+---
 
-## &nbsp;🌱&nbsp; Currently Learning
+### `> ls ~/learning/`
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /><br />
-      <sub>Cross-platform</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /><br />
-      <sub>Type-safe JS</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /><br />
-      <sub>Systems & CLIs</sub>
-    </td>
-  </tr>
-</table>
+```
+drwxr-xr-x  flutter/       # cross-platform mobile
+drwxr-xr-x  typescript/    # type-safe JS
+drwxr-xr-x  go/            # systems & CLIs
+```
 
-<br />
+---
 
-## &nbsp;🛠&nbsp; Core Stack
+### `> cat /etc/stack.conf`
 
 <table>
   <tr>
@@ -86,75 +73,68 @@ Building practical, reliable data products at the intersection of Data, Finance,
   </tr>
 </table>
 
-<br />
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br />
-
-## &nbsp;📂&nbsp; Featured Projects
+### `> find ~/projects -type d | head`
 
 <details open>
-<summary><b>🔴 Data Engineering & Pipelines</b></summary>
+<summary><code>./data-engineering</code></summary>
 <br />
 
-| | Project | Description | Stack |
-|:---:|---|---|---|
-| 🏗️ | **[fraudstream-data-platform](https://github.com/lnilluv/fraudstream-data-platform)** | Real-time fraud pipeline and orchestration design | `Kafka` `Airflow` `dbt` `AWS` `MLflow` |
-| 🕷️ | **[kayak-scrapping](https://github.com/lnilluv/kayak-scrapping)** | Scraping + ETL workflow for structured downstream use | `Python` `ETL` `AWS` |
+| Project | Description | Stack |
+|---|---|---|
+| **[fraudstream-data-platform](https://github.com/lnilluv/fraudstream-data-platform)** | Real-time fraud pipeline and orchestration design | `Kafka` `Airflow` `dbt` `AWS` `MLflow` |
+| **[kayak-scrapping](https://github.com/lnilluv/kayak-scrapping)** | Scraping + ETL workflow for structured downstream use | `Python` `ETL` `AWS` |
 
 </details>
 
 <details open>
-<summary><b>🟡 Machine Learning & MLOps</b></summary>
+<summary><code>./machine-learning</code></summary>
 <br />
 
-| | Project | Description | Stack |
-|:---:|---|---|---|
-| 📈 | **[walmart-sales-forecast](https://github.com/lnilluv/walmart-sales-forecast)** | Retail forecasting workflow from data prep to model outputs | `Python` `ML` `Docker` |
-| 🚗 | **[getaround-eda-ml](https://github.com/lnilluv/getaround-eda-ml)** | EDA + ML project with reproducibility and experiment tracking | `Python` `FastAPI` `MLflow` |
-| 🔄 | **[conversion-rate-mlops](https://github.com/lnilluv/conversion-rate-mlops)** | Conversion modeling with MLOps-oriented setup | `Python` `MLOps` `Docker` |
+| Project | Description | Stack |
+|---|---|---|
+| **[walmart-sales-forecast](https://github.com/lnilluv/walmart-sales-forecast)** | Retail forecasting workflow from data prep to model outputs | `Python` `ML` `Docker` |
+| **[getaround-eda-ml](https://github.com/lnilluv/getaround-eda-ml)** | EDA + ML with reproducibility and experiment tracking | `Python` `FastAPI` `MLflow` |
+| **[conversion-rate-mlops](https://github.com/lnilluv/conversion-rate-mlops)** | Conversion modeling with MLOps-oriented setup | `Python` `MLOps` `Docker` |
 
 </details>
 
 <details open>
-<summary><b>🟢 Deep Learning & NLP</b></summary>
+<summary><code>./deep-learning</code></summary>
 <br />
 
-| | Project | Description | Stack |
-|:---:|---|---|---|
-| 📧 | **[nlp-spam-detector-api](https://github.com/lnilluv/nlp-spam-detector-api)** | NLP model served through API workflow | `TensorFlow` `FastAPI` |
-| 🧠 | **[Brainsight-Alzheimer-prediction-DeepLearning-CNN](https://github.com/lnilluv/Brainsight-Alzheimer-prediction-DeepLearning-CNN)** | CNN project for medical imaging classification | `Python` `CNN` `MLflow` |
+| Project | Description | Stack |
+|---|---|---|
+| **[nlp-spam-detector-api](https://github.com/lnilluv/nlp-spam-detector-api)** | NLP model served through API workflow | `TensorFlow` `FastAPI` |
+| **[Brainsight-Alzheimer-prediction-DeepLearning-CNN](https://github.com/lnilluv/Brainsight-Alzheimer-prediction-DeepLearning-CNN)** | CNN project for medical imaging classification | `Python` `CNN` `MLflow` |
 
 </details>
 
 <details open>
-<summary><b>🔵 Infrastructure</b></summary>
+<summary><code>./infra</code></summary>
 <br />
 
-| | Project | Description | Stack |
-|:---:|---|---|---|
-| ⚙️ | **[ansible-ubuntu-setup](https://github.com/lnilluv/ansible-ubuntu-setup)** | Infrastructure hardening and automated server setup | `Ansible` `Linux` `Docker` |
+| Project | Description | Stack |
+|---|---|---|
+| **[ansible-ubuntu-setup](https://github.com/lnilluv/ansible-ubuntu-setup)** | Infrastructure hardening and automated server setup | `Ansible` `Linux` `Docker` |
 
 </details>
 
-<br />
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br />
-
-## &nbsp;💼&nbsp; Experience Snapshot
+### `> cat /var/log/career.log`
 
 ```
- 2024 — Present   Senior Data Analyst              @ Decathlon
- 2019 — 2023      Business Controller & BI PM       @ KPMG France
- 2014 — 2018      Business Controller & Data Analyst @ H&H Group
+[2024-present]  Senior Data Analyst               @ Decathlon
+[2019-2023]     Business Controller & BI PM        @ KPMG France
+[2014-2018]     Business Controller & Data Analyst  @ H&H Group
 ```
 
-> 🎓 &nbsp;**800+** hour Data Analytics, Data Science & Data Engineering program *(Jedha)*
->
-> 📜 &nbsp;Currently pursuing **CKA** certification — continuous learner
+```
+[cert]  800+ hr Data Analytics, Data Science & Data Engineering  (Jedha)
+[wip]   CKA certification — continuous learner
+```
 
 <br />
 
