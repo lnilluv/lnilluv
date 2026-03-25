@@ -118,6 +118,7 @@ drwxr-xr-x  go/            # systems & CLIs
 | Project | Description | Stack |
 |---|---|---|
 | **[ansible-ubuntu-setup](https://github.com/lnilluv/ansible-ubuntu-setup)** | Infrastructure hardening and automated server setup | `Ansible` `Linux` `Docker` |
+| **[ansible-dietpi-setup](https://github.com/lnilluv/ansible-dietpi-setup)** | Raspberry Pi k3s cluster provisioning with optional VPS workers over Tailscale | `Ansible` `K8s` `Tailscale` `Docker` |
 
 </details>
 
