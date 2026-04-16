@@ -1,150 +1,92 @@
-<div align="center">
+<h1>Laurent Vullin</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a3a5c,50:162447,100:0b1220&section=header" width="100%" alt="header" />
+<p>AI & Data Engineer — Paris</p>
 
-```
-lnilluv@github:~$ whoami
-```
+<p>Building data platforms, pipelines, and AI-powered tooling. Coming from finance and analytics — now focused on data engineering, ML systems, and agent-driven automation.</p>
 
-**Data Engineer** &nbsp;·&nbsp; Finance, Data & Logistics background
+<p>
+<a href="https://linkedin.com/in/laurent-vullin">LinkedIn</a> · 
+<a href="https://github.com/lnilluv">GitHub</a>
+</p>
 
-Building practical, reliable data products at the intersection of Data, Finance, and Operations — pipelines and analytics that teams can actually use for daily decisions.
+<hr>
 
-<br />
+<h3>Currently building</h3>
 
-<a href="https://linkedin.com/in/laurent-vullin"><img src="https://img.shields.io/badge/LinkedIn-lnilluv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://github.com/lnilluv"><img src="https://img.shields.io/badge/GitHub-lnilluv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=lnilluv&style=for-the-badge&color=1a3a5c" alt="profile views" />
+<p><strong>Webscout</strong> — AI-powered web scraping platform with agentic browsing, self-healing extraction, and a distributed Go, Python, and Next.js stack.</p>
 
-<br /><br />
+<p><strong>PricePilot</strong> — competitor price intelligence platform: scraping, product matching, quality checks, and decision-ready analytics.</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lnilluv&show_icons=true&hide_border=true&bg_color=0b1220&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=false&count_private=true" height="165" alt="stats" />&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lnilluv&hide_border=true&background=0B1220&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" height="165" alt="streak" />
+<hr>
 
-</div>
-
----
-
-### `> cat /proc/current_build`
-
-> **Competitor Price Intelligence Pipeline** — end-to-end: scraping, product matching, quality checks, and decision-ready outputs *(Python / Spark)*
->
-> Focus: robust data flow, useful business signals, and maintainable tooling.
-
----
-
-### `> ls ~/learning/`
-
-```
-drwxr-xr-x  flutter/       # cross-platform mobile
-drwxr-xr-x  typescript/    # type-safe JS
-drwxr-xr-x  go/            # systems & CLIs
-```
-
----
-
-### `> cat /etc/stack.conf`
+<h3>Background</h3>
 
 <table>
-  <tr>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /><br /><sub><b>Python</b></sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="SQL" /><br /><sub><b>SQL</b></sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=kafka" width="40" height="40" alt="Kafka" /><br /><sub><b>Kafka</b></sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="40" height="40" alt="Airflow" /><br /><sub><b>Airflow</b></sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/dbt/FF694B" width="40" height="40" alt="dbt" /><br /><sub><b>dbt</b></sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/databricks/EF3E42" width="40" height="40" alt="Databricks" /><br /><sub><b>Databricks</b></sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /><br /><sub><b>AWS</b></sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/googlebigquery/669DF6" width="40" height="40" alt="BigQuery" /><br /><sub><b>BigQuery</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Terraform" /><br /><sub><b>Terraform</b></sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40" alt="MLflow" /><br /><sub><b>MLflow</b></sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/ray/028CF0" width="40" height="40" alt="Ray" /><br /><sub><b>Ray</b></sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /><br /><sub><b>TensorFlow</b></sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" /><br /><sub><b>FastAPI</b></sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/tableau/E97627" width="40" height="40" alt="Tableau" /><br /><sub><b>Tableau</b></sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" height="40" alt="Power BI" /><br /><sub><b>Power BI</b></sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/ansible/EE0000" width="40" height="40" alt="Ansible" /><br /><sub><b>Ansible</b></sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" /><br /><sub><b>K8s</b></sub></td>
-    <td colspan="6"></td>
-  </tr>
+<tr><td><strong>Decathlon</strong></td><td>Senior Data Analyst</td><td align="right">2024–</td></tr>
+<tr><td><strong>KPMG France</strong></td><td>Business Controller & BI PM</td><td align="right">2019–2023</td></tr>
+<tr><td><strong>H&H Group</strong></td><td>Business Controller & Data Analyst</td><td align="right">2014–2018</td></tr>
 </table>
 
----
+<p><em>800+ hr Data Analytics, Data Science & Data Engineering (Jedha) · CKA in progress</em></p>
 
-### `> find ~/projects -type d | head`
+<hr>
+
+<h3>Stack</h3>
+
+<p>
+<strong>Data</strong>&ensp;Python · SQL · Kafka · Airflow · dbt · Databricks · AWS · BigQuery · Terraform<br>
+<strong>ML</strong>&ensp;MLflow · Ray · TensorFlow · FastAPI<br>
+<strong>Infra</strong>&ensp;Docker · Ansible · Kubernetes<br>
+<strong>Viz</strong>&ensp;Tableau · Power BI<br>
+<strong>Learning</strong>&ensp;Flutter · TypeScript · Go
+</p>
+
+<hr>
+
+<h3>Projects</h3>
 
 <details open>
-<summary><code>./data-engineering</code></summary>
-<br />
+<summary><strong>AI & Agents</strong></summary>
 
-| Project | Description | Stack |
-|---|---|---|
-| **[fraudstream-data-platform](https://github.com/lnilluv/fraudstream-data-platform)** | Real-time fraud pipeline and orchestration design | `Kafka` `Airflow` `dbt` `AWS` `MLflow` |
-| **[kayak-scrapping](https://github.com/lnilluv/kayak-scrapping)** | Scraping + ETL workflow for structured downstream use | `Python` `ETL` `AWS` |
+| | Project | What it does | Stack |
+|---|---|---|---|
+| ▸ | [webscout](https://github.com/lnilluv/webscout) | Agentic web scraping with self-healing extraction | Go · Python · Next.js |
+| ▸ | [pi-ralph-loop](https://github.com/lnilluv/pi-ralph-loop) | Autonomous coding loop with prompts, guardrails, and iteration control | Python |
 
 </details>
 
-<details open>
-<summary><code>./machine-learning</code></summary>
-<br />
+<details>
+<summary><strong>Data Platforms</strong></summary>
 
-| Project | Description | Stack |
-|---|---|---|
-| **[walmart-sales-forecast](https://github.com/lnilluv/walmart-sales-forecast)** | Retail forecasting workflow from data prep to model outputs | `Python` `ML` `Docker` |
-| **[getaround-eda-ml](https://github.com/lnilluv/getaround-eda-ml)** | EDA + ML with reproducibility and experiment tracking | `Python` `FastAPI` `MLflow` |
-| **[conversion-rate-mlops](https://github.com/lnilluv/conversion-rate-mlops)** | Conversion modeling with MLOps-oriented setup | `Python` `MLOps` `Docker` |
+| | Project | What it does | Stack |
+|---|---|---|---|
+| ▸ | [pricepilot-platform](https://github.com/lnilluv/pricepilot-platform) | Competitor price intelligence and analytics | Python · Spark |
+| ▸ | [fraudstream-data-platform](https://github.com/lnilluv/fraudstream-data-platform) | Real-time fraud pipeline with event-driven orchestration | Kafka · Airflow · dbt · AWS · MLflow |
 
 </details>
 
-<details open>
-<summary><code>./deep-learning</code></summary>
-<br />
+<details>
+<summary><strong>ML & Deep Learning</strong></summary>
 
-| Project | Description | Stack |
-|---|---|---|
-| **[nlp-spam-detector-api](https://github.com/lnilluv/nlp-spam-detector-api)** | NLP model served through API workflow | `TensorFlow` `FastAPI` |
-| **[Brainsight-Alzheimer-prediction-DeepLearning-CNN](https://github.com/lnilluv/Brainsight-Alzheimer-prediction-DeepLearning-CNN)** | CNN project for medical imaging classification | `Python` `CNN` `MLflow` |
-
-</details>
-
-<details open>
-<summary><code>./infra</code></summary>
-<br />
-
-| Project | Description | Stack |
-|---|---|---|
-| **[ansible-ubuntu-setup](https://github.com/lnilluv/ansible-ubuntu-setup)** | Infrastructure hardening and automated server setup | `Ansible` `Linux` `Docker` |
-| **[ansible-dietpi-setup](https://github.com/lnilluv/ansible-dietpi-setup)** | Raspberry Pi k3s cluster provisioning with optional VPS workers over Tailscale | `Ansible` `K8s` `Tailscale` `Docker` |
+| | Project | What it does | Stack |
+|---|---|---|---|
+| ▸ | [Brainsight-Alzheimer-prediction-DeepLearning-CNN](https://github.com/lnilluv/Brainsight-Alzheimer-prediction-DeepLearning-CNN) | CNN inference platform with API, UI, and deployment stack | Python · CNN · MLflow |
+| ▸ | [getaround-eda-ml](https://github.com/lnilluv/getaround-eda-ml) | EDA + ML with experiment tracking | Python · FastAPI · MLflow |
 
 </details>
 
----
+<details>
+<summary><strong>Infra</strong></summary>
 
-### `> cat /var/log/career.log`
+| | Project | What it does | Stack |
+|---|---|---|---|
+| ▸ | [ansible-dietpi-setup](https://github.com/lnilluv/ansible-dietpi-setup) | Raspberry Pi cluster management with web UI, FastAPI control, and k3s | Ansible · K8s · Tailscale · Docker |
+| ▸ | [ansible-ubuntu-setup](https://github.com/lnilluv/ansible-ubuntu-setup) | Server hardening and automated setup | Ansible · Linux · Docker |
 
-```
-[2024-present]  Senior Data Analyst               @ Decathlon
-[2019-2023]     Business Controller & BI PM        @ KPMG France
-[2014-2018]     Business Controller & Data Analyst  @ H&H Group
-```
+</details>
 
-```
-[cert]  800+ hr Data Analytics, Data Science & Data Engineering  (Jedha)
-[wip]   CKA certification — continuous learner
-```
-
-<br />
+<hr>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lnilluv&bg_color=0b1220&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=162447&hide_border=true" width="95%" alt="activity" />
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0b1220,100:1a3a5c&section=footer" width="100%" alt="footer" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lnilluv&bg_color=transparent&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=162447&hide_border=true" width="95%" alt="contribution activity" />
 </div>
