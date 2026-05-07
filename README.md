@@ -6,7 +6,6 @@
 
 <p>
 <a href="https://linkedin.com/in/laurent-vullin">LinkedIn</a> · 
-<a href="https://github.com/lnilluv">GitHub</a>
 </p>
 
 <hr>
