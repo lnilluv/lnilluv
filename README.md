@@ -4,10 +4,6 @@
 
 <p>Building data platforms, pipelines, and AI-powered tooling. Coming from finance and analytics — now focused on data engineering, ML systems, and agent-driven automation.</p>
 
-<p>
-<a href="https://linkedin.com/in/laurent-vullin">LinkedIn</a> · 
-</p>
-
 <hr>
 
 <h3>Currently building</h3>
