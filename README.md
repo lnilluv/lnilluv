@@ -29,9 +29,9 @@
 <h3>Stack</h3>
 
 <p>
-<strong>Data</strong>&ensp;Python · SQL · Kafka · Airflow · dbt · Databricks · AWS · BigQuery · Terraform<br>
-<strong>ML</strong>&ensp;MLflow · Ray · TensorFlow · FastAPI<br>
-<strong>Infra</strong>&ensp;Docker · Ansible · Kubernetes<br>
+<strong>Data</strong>&ensp;Python · SQL · dbt<br>
+<strong>ML</strong>&ensp;MLflow · Ray · PyTorch · TensorFlow · FastAPI<br>
+<strong>Infra</strong>&ensp;Docker · Ansible · Kubernetes · Terraform · Kafka · Airflow · AWS/GCP/Databricks<br>
 <strong>Viz</strong>&ensp;Tableau · Power BI<br>
 <strong>Learning</strong>&ensp;Flutter · TypeScript · Go
 </p>
